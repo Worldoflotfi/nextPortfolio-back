@@ -1,4 +1,4 @@
-const { google } = require('googleapis'); // npm i
+const { google } = require('googleapis'); //todo: npm i
 const nodemailer = require('nodemailer');
 const OAuth2 = google.auth.OAuth2;
 const dotenv = require('dotenv');
